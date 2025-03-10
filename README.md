@@ -20,3 +20,8 @@ This app lets teachers **input study time & attendance** and see **predictions**
 - **Streamlit** – Web App Interface  
 - **Seaborn & Matplotlib** – Data Visualization  
 
+![Image](https://github.com/user-attachments/assets/d4ac4fd4-ff61-4fc8-a310-cd680cb34c51)
+
+![Image](https://github.com/user-attachments/assets/8ce187a4-48e6-4cf0-a07a-21625b81deb9)
+
+![Image](https://github.com/user-attachments/assets/ee378dba-88d8-4941-8478-6e2b13d7034e)
