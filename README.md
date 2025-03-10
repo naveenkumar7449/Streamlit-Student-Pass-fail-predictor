@@ -1,4 +1,4 @@
-# 📚 Student Failure Predictor  
+# 📚 Student Failure Predictor using Streamlit
 
 ## 🚀 Overview  
 This project helps teachers predict which students are **at risk of failing** based on:  
@@ -25,3 +25,6 @@ This app lets teachers **input study time & attendance** and see **predictions**
 ![Image](https://github.com/user-attachments/assets/8ce187a4-48e6-4cf0-a07a-21625b81deb9)
 
 ![Image](https://github.com/user-attachments/assets/ee378dba-88d8-4941-8478-6e2b13d7034e)
+
+## Acknowledgement
+Under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
